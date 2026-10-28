@@ -37,7 +37,7 @@
 
 | No | Building | Building Draw Calls | Building Triangles | Screenshot |
 |---:|---|---:|---:|---:|
-| 1 | Building_1 | 54 | 20.086 | [View screenshot](LINK) |
+| 1 | Building_1 | 54 | 20.086 | [View screenshot](https://github.com/Joy-SalasGames/BuildingPerformanceTest/blob/main/Screenshots/Chinatown/Building_1.png) |
 | 2 |  |  |  | [View screenshot](LINK) |
 | 3 |  |  |  | [View screenshot](LINK) |
 | 4 |  |  |  | [View screenshot](LINK) |

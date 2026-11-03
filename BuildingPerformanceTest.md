@@ -26,6 +26,15 @@
 | 5 | Sapporo Ramen | 8 | 3.440 | [View screenshot](https://raw.githubusercontent.com/Joy-SalasGames/BuildingPerformanceTest/refs/heads/oct-11/Screenshots/Sapporo_Ramen.png) |
 | 6 | Yong Tai Building | 32 | 20.574 | [View screenshot](https://raw.githubusercontent.com/Joy-SalasGames/BuildingPerformanceTest/refs/heads/oct-11/Screenshots/Yong_Tai_Building.png) |
 
+### Comparison with Old Model
+
+| Rank | Building | Old Building Draw Calls | New Building Triangles | Old Building Draw Calls | New Building Triangles |
+|---:|---|---:|---:|---:|---:|
+| 1 | Building_2 | 74 | 60 | 28.886 | 33.074 |
+| 2 | Building_3 | 44 | 26 | 45.774 | 14.990 |
+| 3 | Mahjong | 72  | 22 | 52.002 | 7.310 |
+| 4 | Sapporo Ramen | 62  | 8 | 17.802 | 3.440 |
+
 ## Calculation
 
 ```text
